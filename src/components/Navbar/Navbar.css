@@ -60,6 +60,7 @@
 
 .app__navbar-smallscreen{
     display: none;
+
 }
 
 .app__navbar-smallscreen_overlay{
@@ -123,4 +124,5 @@
     .app__navbar-logo img{
         width: 110px;
     }
+
 }
